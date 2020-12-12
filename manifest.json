@@ -1,0 +1,33 @@
+{
+	"name": "Opsgenie Alert Refresher",
+	"description": "Auto Refresh for Opsgenie Alerts",
+	"version": "1.0.0",
+	"browser_action": {
+		"default_icon": {
+			"16": "assets/logo-16.png",
+			"32": "assets/logo-32.png",
+			"48": "assets/logo-48.png",
+			"128": "assets/logo-128.png"
+		}
+	},
+	"content_scripts": [
+		{
+			"matches": [
+				"https://*.opsgenie.com/alert/list"
+			],
+			"js": [
+				"alertautorefresh.js"
+			]
+		}
+	],
+	"permissions": [
+		"activeTab"
+	],
+	"icons": {
+		"16": "assets/logo-16.png",
+		"32": "assets/logo-32.png",
+		"48": "assets/logo-48.png",
+		"128": "assets/logo-128.png"
+	},
+	"manifest_version": 2
+}
