@@ -6,7 +6,7 @@ Refresh Opsgenie's Alert Page (https://docs.opsgenie.com/docs/alerts-page) every
 
 **Get here:**
 
-[![Chrome Web Store](images/ChromeWebStoreBadge.png "Get Opsgenie Alert Notifier")](https://chrome.google.com/webstore/detail/opsgenie-alert-notifier/eibhldckggocaibkflmkkacacijegkle)
+Chrome Web Store currently in review.
 
 ### Manual Installation
 
