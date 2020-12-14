@@ -6,13 +6,14 @@ Refresh Opsgenie's Alert Page (https://docs.opsgenie.com/docs/alerts-page) every
 
 **Get here:**
 
-Chrome Web Store currently in review.
+- Chrome Web Store currently in review
+- [CRX-File](opsgenie-chrome-alert-auto-refresh.crx)
 
 ### Manual Installation
 
-* Clone the repository
-* Then open "**chrome://extensions**" on your browser, switch **Developer mode** mode on.
-* Load the extension by clicking "**Load unpacked**"
+- Clone the repository
+- Then open "**chrome://extensions**" on your browser, switch **Developer mode** mode on.
+- Load the extension by clicking "**Load unpacked**"
 
 ## License
 
@@ -20,4 +21,4 @@ Chrome Web Store currently in review.
 
 ## Version
 
-* 1.0: Initial Release
+- 1.0.0: Initial Release
