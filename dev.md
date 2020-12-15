@@ -1,5 +1,9 @@
 # Development
 
+## TODO
+- prevent reload when focus is in search bar
+- prevent reload when search dialog is open
+
 ## content_script vs. background script
 
 To activate autorefresh onclick replace in manfesit.json
