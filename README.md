@@ -6,7 +6,7 @@ Refresh Opsgenie's Alert Page (https://docs.opsgenie.com/docs/alerts-page) every
 
 **Get here:**
 
-- Chrome Web Store currently in review
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/opsgenie-alert-refresher/ejkapnfkglbdjgphcmlhaafjmdcjkbmb)
 - [CRX-File](https://github.com/diver80/opsgenie-chrome-alert-auto-refresh/releases/download/v1.0.1/opsgenie-chrome-alert-auto-refresh-release.crx)
 
 ### Manual Installation
